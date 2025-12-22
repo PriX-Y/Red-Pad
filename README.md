@@ -1,11 +1,12 @@
 in case
-<img width="286" height="333" alt="Zrzut ekranu 2025-12-22 025551" src="https://github.com/user-attachments/assets/2a9eaae0-3d7a-41b3-9565-7650affc14fb" />
+<img width="449" height="485" alt="Zrzut ekranu 2025-12-22 213100" src="https://github.com/user-attachments/assets/10a232d6-9331-4ca1-beea-84ed920762bc" />
 
 case inside
-<img width="614" height="754" alt="Zrzut ekranu 2025-12-21 201356" src="https://github.com/user-attachments/assets/85aaf761-3108-4b3e-b7f1-ce6f2e000c4c" />
+<img width="434" height="484" alt="Zrzut ekranu 2025-12-22 214458" src="https://github.com/user-attachments/assets/4564080b-d88d-4cee-a6fe-06c211f6caf1" />
 
 case outside
-<img width="587" height="690" alt="Zrzut ekranu 2025-12-21 201401" src="https://github.com/user-attachments/assets/7ba4d05b-25ae-46bf-ad9c-172f0ac7dadd" />
+<img width="281" height="325" alt="image" src="https://github.com/user-attachments/assets/99eed27f-c836-446b-9cf6-8f55576d9bfc" />
+
 
 pcb footprint
 <img width="572" height="749" alt="Zrzut ekranu 2025-12-21 150355" src="https://github.com/user-attachments/assets/27db29b4-0767-41e4-84af-4e6d6cc99801" />
