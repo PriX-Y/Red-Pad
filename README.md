@@ -16,3 +16,7 @@ pcb 3d model
 
 schematic
 <img width="690" height="614" alt="Zrzut ekranu 2025-12-14 023601" src="https://github.com/user-attachments/assets/6b2a61e3-9389-48bb-bdc9-80b22e246feb" />
+
+
+BOM
+<img width="487" height="167" alt="image" src="https://github.com/user-attachments/assets/d4c561e1-0207-4428-9b3a-12d79b57e914" />
