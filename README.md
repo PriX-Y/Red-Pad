@@ -24,3 +24,10 @@ schematic
 
 BOM
 <img width="487" height="167" alt="image" src="https://github.com/user-attachments/assets/d4c561e1-0207-4428-9b3a-12d79b57e914" />
+
+
+
+40% of time is spent
+20% of time is spent looking for footprints
+30% learning how to do something
+10% asking questions on Slac
