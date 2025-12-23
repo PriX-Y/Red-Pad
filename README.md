@@ -41,6 +41,12 @@ case backplate
 
 
 pcb footprint
+
+
+
+
+
+
 <img width="572" height="749" alt="Zrzut ekranu 2025-12-21 150355" src="https://github.com/user-attachments/assets/27db29b4-0767-41e4-84af-4e6d6cc99801" />
 
 pcb 3d model
